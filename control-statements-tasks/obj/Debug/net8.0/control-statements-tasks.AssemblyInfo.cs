@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("control-statements-tasks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2da291aa3265d95856c690b7588282bd344a7e44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3d19e493aba631779110433c599d241b8e2d5de")]
 [assembly: System.Reflection.AssemblyProductAttribute("control-statements-tasks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("control-statements-tasks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,20 +1,26 @@
 using System;
-public class Task1{
+
+public class Task1
+{
     public static void Run()
     {
         int attempts = 0;
         string correctUsername = "admin";
         string correctPassword = "1234";
+        bool isAuthenticated = false;
 
         while (attempts < 3)
         {
-            Console.Write("enter your login name: ");
+            Console.Write("Enter your login name: ");
             string login = Console.ReadLine();
-            Console.Write("enter your password: ");
+            Console.Write("Enter your password: ");
             string password = Console.ReadLine();
+
             if (login == correctUsername && password == correctPassword)
             {
-                Console.WriteLine("Login successful");
+                Console.WriteLine("Login successful ✅");
+                isAuthenticated = true;
+                break;
             }
             else
             {
@@ -22,6 +28,10 @@ public class Task1{
                 attempts++;
             }
         }
-        Console.WriteLine("too many attempts rejected");
+
+        if (!isAuthenticated)
+        {
+            Console.WriteLine("Too many failed attempts. You are rejected 🚫");
+        }
     }
 }
