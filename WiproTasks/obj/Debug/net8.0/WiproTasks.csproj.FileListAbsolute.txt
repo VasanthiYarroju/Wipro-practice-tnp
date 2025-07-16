@@ -1,0 +1,14 @@
+C:\Users\vasan\Downloads\WiproTasks\bin\Debug\net8.0\WiproTasks.exe
+C:\Users\vasan\Downloads\WiproTasks\bin\Debug\net8.0\WiproTasks.deps.json
+C:\Users\vasan\Downloads\WiproTasks\bin\Debug\net8.0\WiproTasks.runtimeconfig.json
+C:\Users\vasan\Downloads\WiproTasks\bin\Debug\net8.0\WiproTasks.dll
+C:\Users\vasan\Downloads\WiproTasks\bin\Debug\net8.0\WiproTasks.pdb
+C:\Users\vasan\Downloads\WiproTasks\obj\Debug\net8.0\WiproTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasan\Downloads\WiproTasks\obj\Debug\net8.0\WiproTasks.AssemblyInfoInputs.cache
+C:\Users\vasan\Downloads\WiproTasks\obj\Debug\net8.0\WiproTasks.AssemblyInfo.cs
+C:\Users\vasan\Downloads\WiproTasks\obj\Debug\net8.0\WiproTasks.csproj.CoreCompileInputs.cache
+C:\Users\vasan\Downloads\WiproTasks\obj\Debug\net8.0\WiproTasks.dll
+C:\Users\vasan\Downloads\WiproTasks\obj\Debug\net8.0\refint\WiproTasks.dll
+C:\Users\vasan\Downloads\WiproTasks\obj\Debug\net8.0\WiproTasks.pdb
+C:\Users\vasan\Downloads\WiproTasks\obj\Debug\net8.0\WiproTasks.genruntimeconfig.cache
+C:\Users\vasan\Downloads\WiproTasks\obj\Debug\net8.0\ref\WiproTasks.dll
